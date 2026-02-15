@@ -1,0 +1,4 @@
+2026-01-07T08:40:49 Shashwat sshd[419]: Failed password for root from 192.168.1.200 port 22 ssh2
+2026-01-07T08:41:12 Shashwat sshd[420]: Failed password for admin from 192.168.1.200 port 22 ssh2
+2026-01-07T08:42:12 Shashwat sshd[421]: Accepted password for ubuntu from 192.168.1.10 port 22 ssh2
+2026-01-07T08:43:12 Shashwat sshd[422]: Failed password for test from 192.168.1.200 port 22 ssh2
